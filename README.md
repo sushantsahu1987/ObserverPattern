@@ -1,2 +1,2 @@
 # ObserverPattern
-An simple android project demonstrating the usage of observer pattern.
+A simple android project demonstrating the usage of observer pattern.
